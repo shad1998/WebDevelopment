@@ -1,0 +1,32 @@
+body{
+	border:20px solid #bdc3c7 ;
+	margin-left:15%;
+	margin-right: 15%; 
+}
+.date{
+	color:#3498db;
+	letter-spacing: 1.5px;
+	margin-left:1.66%;
+}
+.heading{
+	color:#2c3e50;
+	font-weight:800px;
+	margin-left:1.66%;
+}
+.firstpara{
+	border-left:5px #bdc3c7 solid;
+	margin-left:1.66%;
+	margin-right:1.66%;
+	padding:10px;
+	font-family: Source Sans Pro;
+}
+.normalpara{
+	margin-left:3.1%;
+	margin-right: 3.1%;
+	font-family: Source Sans Pro;
+	/*font-family: source-sans-pro;*/
+}
+.hbreak{
+	margin-left: 2%;
+	margin-right: 2%;
+}

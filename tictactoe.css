@@ -1,0 +1,41 @@
+td{
+	width:100px;
+	height: 100px;
+	/*background: pink;*/
+}
+#one{
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+}
+#two{
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+}	
+#three{
+	border-bottom:1px solid black;
+}
+#four{
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+}
+#five{
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+}
+#six{
+	border-bottom:1px solid black;
+}
+#seven{
+	border-right:1px solid black;
+}
+#eight{
+	border-right:1px solid black;
+}
+p{
+	text-decoration: blink;
+	color:magenta;
+	text-align: center;
+}
+p:hover{
+	color:green;
+}

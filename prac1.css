@@ -1,0 +1,14 @@
+body{
+	background: url(https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8b54ef273c5b3eacc51c2cc0824fcd93&auto=format&fit=crop&w=710&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p{
+	color:#DC143C
+;
+}
+h1{
+	border-color:#8B0000;
+	border-style: solid;
+	border-width:5px;
+}
