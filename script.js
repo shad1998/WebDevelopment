@@ -1,6 +1,8 @@
-var fname=prompt("what is your first name?");
-var lname=prompt("what is your last name?");
-var age=prompt("what is your age?");
-// if(fname!=null and lname!=null)
-alert("your full name is: "+fname+" "+lname);
-alert("your age is "+age);
+var age=prompt("enter your age to check your eligibikity for the pub");
+if(age<18){
+	alert("sorry buddy you can't enter here");
+}
+else if(age>=18 && age<=21)
+	alert("yes you can enter but cant drink");
+else
+	alert("enjoy the party");
