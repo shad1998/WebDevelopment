@@ -11,6 +11,20 @@
 <script>
 		var h1=document.querySelector("h1");
 		h1.style.color="pink";
+
+		var body=document.querySelector("body");//select the body
+		var isBlue=false;//initially we assume that the body is white
+
+		setInterval(function(){
+			if(isBlue){// if the screen is blue change it to white
+				body.style.background="white";
+			}
+			else{ // if the screen is white change it to blue
+				body.style.background="blue";
+			}
+			isBlue=!isBlue;// then only color can change .
+		},1000);//call this function every second);
+
 </script>
 </body>
 </html>
